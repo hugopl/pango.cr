@@ -1,3 +1,5 @@
+![Build Status](https://github.com/hugopl/pango.cr/actions/workflows/ci.yml/badge.svg?branch=master)
+
 # Pango.cr
 
 Crystal bindings for [Pango](https://pango.gnome.org/) library
