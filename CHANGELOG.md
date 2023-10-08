@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Changes that change the generated API have a ⚠️.
 
+## [0.3.0] 2023-10-08
+### Fixed
+- Bump gi-crystal version fixing several functions using gunichar.
+
 ## [0.2.0] 2023-04-16
 ### Added
 - Added new [GIO bindings](https://github.com/hugopl/gio.cr) as dependency.
