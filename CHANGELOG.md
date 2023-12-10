@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Changes that change the generated API have a ⚠️.
 
+## [0.3.1] 2023-12-10
+### Changed
+- Use newer gi-crystal and remove gio shard dependency.
+
 ## [0.3.0] 2023-10-08
 ### Fixed
 - Bump gi-crystal version fixing several functions using gunichar.
